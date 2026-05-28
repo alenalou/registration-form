@@ -25,4 +25,4 @@ Sign-up form with JavaScript validation
   
 
    [ITGirlSchool]: <https://itgirlschool.com/en>
-   [Registration Form]: <https://alenagm.github.io/registration-form/>
+   [Registration Form]: <https://alenalou.github.io/registration-form/>
